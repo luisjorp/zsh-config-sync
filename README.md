@@ -7,7 +7,7 @@ Welcome to the Zsh Configuration Backup Tool! This CLI tool is designed to make 
 - **Easy Backup**: Quickly compress and upload your Zsh configuration files to GitHub.
 - **Seamless Restore**: Download and decompress your configuration files from GitHub with a simple command.
 - **Safe Updates**: Automatically back up existing configuration files locally before overwriting them during restoration.
-- **Flexible Configuration**: Supports both environment variables and `config.ini` for your GitHub token.
+- **Flexible Configuration**: Supports both environment variables and `.env` for your GitHub token.
 
 ## Getting Started
 
