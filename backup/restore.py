@@ -61,6 +61,8 @@ def restore_configs():
 # Example usage
 if __name__ == '__main__':
     filename = 'zsh_config_backup.zip'
+
+    # ToDo: Replace with the name of the repository you want to use, send it from the console (click)
     repository_name = 'luisjorp/zsh-file'  # Your GitHub repository
     # Download the backup file from GitHub
     download_backup(filename, repository_name)

@@ -44,6 +44,8 @@ def backup_configs():
     # Define the paths to your Zsh configuration files
     config_paths_list = ['~/.zshrc', '~/.zshenv']  # Adjust as necessary
     output_filename = 'zsh_config_backup.zip'  # The name of the compressed file
+
+    # ToDo: Replace with the name of the repository you want to use, send it from the console (click)
     repository_name = 'luisjorp/zsh-file'  # Your GitHub repository
     commit_message = 'Backup Zsh configuration'  # Commit message for the upload
 
