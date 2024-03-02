@@ -7,5 +7,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# Python
+*.pyc
+
+
 .idea
 zsh_config_backup.zip
