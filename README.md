@@ -88,11 +88,6 @@ python main.py restore
 
 Take into account that if you already have a `.zshrc` file in your home directory, the tool will back it up renaming it to `.zshrc-local_backup` before restoring the new one.
 
-
-## About the Author
-
-This tool was created by LuisJo. You can find me on [GitHub](https://github.com/luisjorp) and [LinkedIn](https://www.linkedin.com/in/luisjorp/).
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any ideas, bug fixes, or changes you'd like to contribute.
@@ -100,3 +95,9 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/luisjorp/zsh-config-sync?tab=MIT-1-ov-file#readme) file for details.
+
+## About the Author
+
+This tool was created with ❤️ by LuisJo. You can find me on [GitHub](https://github.com/luisjorp) and [LinkedIn](https://www.linkedin.com/in/luisjorp/).
+
+
